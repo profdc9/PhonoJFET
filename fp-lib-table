@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "PhonoJFET")(type "KiCad")(uri "${KIPRJMOD}/PhonoJFET.pretty")(options "")(descr ""))
+)
